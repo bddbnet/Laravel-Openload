@@ -6,7 +6,7 @@
  * Time: 17:21
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 
 class DownloadLink extends AbstractFile
