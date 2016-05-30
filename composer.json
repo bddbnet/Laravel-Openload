@@ -1,7 +1,7 @@
 {
   "name": "fajarmawan/laravelopenload",
   "type": "library",
-  "description": ":package_description",
+  "description": "laravel openload sdk",
   "keywords": [
     "fajarmawan",
     "LaravelOpenload"
@@ -10,9 +10,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": ":author_name",
-      "email": ":author_email",
-      "homepage": ":author_website",
+      "name": "fajarmawan",
+      "email": "fajar.dwi.mawan@gmail.com",
+      "homepage": "",
       "role": "Developer"
     }
   ],
