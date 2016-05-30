@@ -6,7 +6,7 @@
  * Time: 17:34
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 
 class RemoteUpload extends AbstractRemoteUpload
