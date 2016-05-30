@@ -7,7 +7,7 @@
  * Time: 18:28
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 class AccountBuilder extends AbstractBuilder
 {
