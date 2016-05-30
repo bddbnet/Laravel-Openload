@@ -6,7 +6,7 @@
  * Time: 17:32
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 
 class Upload
