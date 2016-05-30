@@ -6,7 +6,7 @@
  * Time: 19:01
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 
 class ListFolderBuilder extends AbstractBuilder
