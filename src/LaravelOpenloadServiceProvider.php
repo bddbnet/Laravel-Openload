@@ -1,6 +1,6 @@
 <?php
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 use Illuminate\Support\ServiceProvider;
 
