@@ -6,7 +6,7 @@
  * Time: 18:17
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 
 abstract class AbstractContent
