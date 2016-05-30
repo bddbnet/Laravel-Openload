@@ -6,7 +6,7 @@
  * Time: 17:24
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 
 class FileInfo extends AbstractFile
