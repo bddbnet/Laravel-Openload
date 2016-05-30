@@ -6,7 +6,7 @@
  * Time: 19:31
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 
 class RemoteUploadBuilder extends AbstractBuilder
