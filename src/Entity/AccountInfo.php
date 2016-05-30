@@ -6,7 +6,7 @@
  * Time: 17:03
  */
 
-namespace fajarmawan\LaravelOpenload;
+namespace fajardm\LaravelOpenload;
 
 
 class AccountInfo
