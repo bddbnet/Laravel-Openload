@@ -6,7 +6,7 @@
  * Time: 19:41
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 
 class DownloadBuilder extends AbstractBuilder
