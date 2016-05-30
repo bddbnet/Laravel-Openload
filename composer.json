@@ -3,7 +3,7 @@
   "type": "library",
   "description": "laravel openload sdk",
   "keywords": [
-    "fajarmawan",
+    "fajardm",
     "LaravelOpenload"
   ],
   "homepage": "https://github.com/fajardm/laravel-openload",
@@ -28,12 +28,12 @@
   },
   "autoload": {
     "psr-4": {
-      "fajarmawan\\LaravelOpenload\\": "src"
+      "fajardm\\laravelopenload\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "fajarmawan\\LaravelOpenload\\": "tests"
+      "fajardm\\laravelopenload\\": "tests"
     }
   },
   "scripts": {
