@@ -6,7 +6,7 @@
  * Time: 17:12
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 
 class DownloadTicket
