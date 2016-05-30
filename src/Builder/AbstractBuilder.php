@@ -7,7 +7,7 @@
  * Time: 18:27
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 abstract class AbstractBuilder
 {
