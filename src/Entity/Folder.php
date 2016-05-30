@@ -6,7 +6,7 @@
  * Time: 17:46
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 
 class Folder extends AbstractContent
