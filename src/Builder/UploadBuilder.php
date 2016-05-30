@@ -6,7 +6,7 @@
  * Time: 19:25
  */
 
-namespace fajardm\LaravelOpenload;
+namespace fajardm\laravelopenload;
 
 
 class UploadBuilder extends AbstractBuilder
